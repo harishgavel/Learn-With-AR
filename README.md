@@ -24,5 +24,6 @@ Link : https://youtu.be/WT_cpC--DZM
 - Vivek Ghanchi([@vivekghanchi](https://github.com/vivekghanchi))
 - Khushal Sharma([@Logan1x](https://github.com/Logan1x))
 - Harshwardan Singh([@Harshvardhan58](https://github.com/Harshvardhan58))
+- Harish Gvael([@harishgavel](https://github.com/harishgavel))
  
 
